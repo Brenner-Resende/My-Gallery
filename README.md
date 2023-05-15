@@ -1,4 +1,4 @@
-```
+
 
 # Olá, Bem vindo ao meu projeto My Gallery.
 
@@ -18,4 +18,3 @@
 ### Brenner Resende
 
 
-```
